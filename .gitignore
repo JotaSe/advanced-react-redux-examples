@@ -1,0 +1,16 @@
+hoc/node_modules
+hoc/bundle.js
+hoc/npm-debug.log
+
+
+middleware/node_modules
+middleware/bundle.js
+middleware/npm-debug.log
+
+testing/node_modules
+testing/bundle.js
+testing/npm-debug.log
+
+# IntelliJ
+*.iml
+/.idea
