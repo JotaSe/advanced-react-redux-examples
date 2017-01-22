@@ -14,6 +14,7 @@ testing/npm-debug.log
 authentication/server/node_modules
 authentication/server/bundle.js
 authentication/server/npm-debug.log
+authentication/server/config.js
 
 # IntelliJ
 *.iml
